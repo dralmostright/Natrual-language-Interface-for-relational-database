@@ -1,0 +1,7 @@
+Go to the standford core nlp site
+
+http://nlp.stanford.edu/software/corenlp.shtml
+
+download the version 3.3.0 version and extract it
+then import the libraries in jar files to your project and 
+add the classes in the project and go with it.
