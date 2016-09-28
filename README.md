@@ -23,8 +23,11 @@
 This project approaches problem by carrying out a mapping between Natural Language (NL) and SQL syntactic structures. The mapping is automatically derived by applying unsupervised machine learning algorithms. In particular the project exploit linguistic dependencies in the natural language question and the database metadata to build a set of plausible SELECT, WHERE and FROM clauses enriched with meaningful JOINS. Then, combine all the clauses to get the set of all possible SQL queries, producing candidate queries to answer the question.
 
 Purpose	:Query database in natural
+
 Programming Language used	:Java
+
 Database	:Mysql
+
 Api Used		:stanfordcorenlp (version 3)
 
 *This is the final year project that We have did. And this is focused on realtaion database.*	
