@@ -1,14 +1,16 @@
 # Natrual-language-Interface-for-relational-database
-==================================================
 
-## Mendators			
+## Mendators
+
 1. Anup Pokhrel
-2. Suman Adhikari		 
+2. Suman Adhikari
+
 ---
 
 ## College/University 
 1. Campus /College : Amrit Campus
 2. University	  : Tribhuvan University
+
 ---
 
 ##  		Submitted Year		
