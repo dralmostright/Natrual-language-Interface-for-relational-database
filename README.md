@@ -1,6 +1,6 @@
 # Natrual-language-Interface-for-relational-database
 
-## Mendators
+## Mentors
 
 1. Anup Pokhrel
 2. Suman Adhikari
